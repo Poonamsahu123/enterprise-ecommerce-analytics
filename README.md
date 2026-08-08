@@ -290,10 +290,7 @@ The dashboards help identify:
 
 ## Product & Category Analytics Dashboard
 
-![Product Analytics Dashboard](screenshots/product-analytics.png)
-
----
-
+![Product & Category Analytics Dashboard](screenshots/product-analytics.png)
 # 💡 Business Value
 
 This project demonstrates how raw sales data can be transformed into actionable business information.
